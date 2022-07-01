@@ -20,6 +20,8 @@ Votre mission est :
 
 ``./launch_app.sh``
 
+Les notebooks se lancent dans le navigateur et vous pouvez les visualiser et les executer. Notez qu'ils sont aussi disponibles sous format PDF
+
 ## structure du projet :
 
 l'ensemble de nos notebook théorique sont dans le dossier Theorical. Theory_drone.ipynb représente la partie théorique concernant le passage du drone et theorie_deneigeuse.ipynb représente celle du passage des déneigeuse.
