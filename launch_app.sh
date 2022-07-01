@@ -10,7 +10,7 @@ sleep 10
 
 echo "Ouverture de la partie 1 theorique"
 
-python3 -m webbrowser "http://localhost:8888/notebooks/Theoretical/Theory.ipynb"
+python3 -m webbrowser "http://localhost:8888/notebooks/Theoretical/Theory_drone.ipynb"
 
 echo "Ouverture de la partie 2 theorique"
 
