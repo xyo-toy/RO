@@ -19,3 +19,7 @@ Votre mission est :
 ## Visualisation du projet :
 
 ``./launch_app.sh``
+
+## structure du projet :
+
+l'ensemble de nos notebook théorique sont dans le dossier Theorical. Theory_drone.ipynb représente la partie théorique concernant le passage du drone et theorie_deneigeuse.ipynb représente celle du passage des déneigeuse.
