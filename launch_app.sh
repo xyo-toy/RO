@@ -18,6 +18,5 @@ python3 -m webbrowser "http://localhost:8888/notebooks/Theoretical/theorie_denei
 
 echo "Ouverture de la partie pratique"
 
-python3 -m webbrowser "localhost:8888/Pratique/Step3.ipynb"
-
+python3 -m webbrowser "http://localhost:8888/notebooks/Pratical/Eval_cost.ipynb"
 echo "Vous pouvez également voir une version pdf des notebooks"
